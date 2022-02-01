@@ -1,5 +1,5 @@
 Hello, i'm Fabucik.
-I'm programming for 2 years now and i am interested in blockchain, frontend and backend development and cyber security
+I'm programming for 2 years now and i am interested in blockchain, frontend and backend development and cyber security.
 Currently learning blockchain development
 
 <!---
