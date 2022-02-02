@@ -1,8 +1,2 @@
-Hello, i'm Fabucik.
-I'm programming for 2 years now and i am interested in blockchain, frontend and backend development and cyber security.
-Currently learning blockchain development
-
-<!---
-Fabucik/Fabucik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello, i'm Fabucik, 14 year old student and applicant for Cyber Secuity field in SSPŠaG in Prague.
+- I started programming at the end of 2019 and i am interested in blockchain, backend development and cyber security.
