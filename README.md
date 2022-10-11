@@ -1,6 +1,5 @@
 - 👋 Hello, i'm Fabucik, 14 year old Cyber Secuity student at SSPŠaG in Prague.
 - 💻 I started coding at the end of 2019 and i am interested in embedded systems, backend development, networking and cyber security.
-- :handshake: Currently working on cheap portable device to help you in WiFi hacking!
 
 ---
 
