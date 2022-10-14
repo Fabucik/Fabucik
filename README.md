@@ -1,4 +1,5 @@
-- 👋 Hello, i'm Fabucik, 14 year old Cyber Secuity student at SSPŠaG in Prague.
+- **Frantisek Burkon**
+- 👋 Hello, i'm Fabucik, 15 year old Cyber Secuity student at SSPŠaG in Prague.
 - 💻 I started coding at the end of 2019 and i am interested in embedded systems, backend development, networking and cyber security.
 
 ---
