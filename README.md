@@ -1,5 +1,5 @@
 ### František Burkoň
-- 👋 Hello, i'm Fabucik, 16 year old Cyber Secuity student at SSPŠ in Prague.
+- 👋 Hello, i'm Fabucik, 17 year old Cyber Secuity student at SSPŠ in Prague.
 - 💻 I started coding at the end of 2019 and i am interested in backend development, networking, cyber security and embedded systems.
 - 🐹 I write lot of my projects in Golang
 - 🦀 I'm currently learning Rust
